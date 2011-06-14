@@ -1,0 +1,1 @@
+Andy Delcambre is a Software Engineer in San Francisco, CA. He works at Engine Yard on the AppCloud product. He grew up in Portland, OR and has been working with Ruby and Rails since early 2006, when he started at Planet Argon.

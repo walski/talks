@@ -10,3 +10,12 @@ At Engine Yard, we write and use multiple smaller web apps that talk http to eac
 
 In normal development you simply run the tests in mocked mode which is quite fast.  But for the full integration tests, you can run the tests unmocked, which is much slower, but uses the same api as will be used in production.  This gives you significant confidence that the code is correct.
 Appeal points (for example: the reason why this talk should be given at RubyKaigi2011) (English or Japanese / Used in selection) (optional): There are many benefits to using a "Service Oriented Architecture", but introducing more moving parts can add complexity.  I hear a lot about the benefits of using this architecture, but putting it into practice is often not discussed, especially in regards to testing.
+
+### Submitted
+
+* RubyKaigi
+* Madison Ruby
+
+### Accepted
+
+* RubyKaigi
