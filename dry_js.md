@@ -9,4 +9,6 @@ Dry.js is an attempt to avoid having to duplicate this logic between a JS MVC cl
 
 ### Submitted
 
+* JSConf.eu
+
 ### Accepted
