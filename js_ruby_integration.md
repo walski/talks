@@ -10,3 +10,5 @@ This talk shows how to integrate the two worlds seamlessly and without pain. It 
 * [RubyShift 2011](http://rubyshift.org/)
 
 ### Accepted
+
+* [RubyShift 2011](http://rubyshift.org/) (06/27/2011)
