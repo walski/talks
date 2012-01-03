@@ -12,6 +12,7 @@ I am Thorben, former founder of “kopfmaschine”, a German Rails shop located 
 ### Submitted
 
 * [Ruby on Ales 2012](http://ruby.onales.com/)
+* [Mountain West Ruby 2012](http://mtnwestrubyconf.org/)
 
 ### Accepted
 
