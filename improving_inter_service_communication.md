@@ -1,5 +1,8 @@
 # Improving Inter Service Communication
 
+## Short Description
+In times where applications get more and more split up into small pieces that have to communicate with each other it's critical to have systems in place that make this communication as trouble-free as possible. This talk covers what we did at Engine Yard to improve our inter service communication and how you can apply that to your own infrastructure.
+
 ## Abstract
 This talk tells the story on how we have improved the way to build and maintain web services at Engine Yard with the introduction of an internal PUBSUB infrastructure. The wise UNIX philosophers are telling us "Write programs that do one thing and do it well". And even decades after this wisdom was born it's still as fresh and true as in it's early days, now that monolithic web applications are being replaces more and more by sets of small services that work together. This is a good first step in the right direction but we are still failing at how we implement most web services with a strong coupling to mutual API contracts between each other.
 
