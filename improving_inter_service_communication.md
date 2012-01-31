@@ -18,6 +18,8 @@ I am Thorben, former founder of “kopfmaschine”, a German Rails shop located 
 * [Mountain West Ruby 2012](http://mtnwestrubyconf.org/)
 * [OSCON 2012](http://www.oscon.com/oscon2012)
 * [RubyConf India 2012](http://rubyconfindia.org/2012/)
+* [Madison Ruby 2012](http://madisonruby.org/)
+* [Nordic Ruby 2012](http://nordicruby.org/)
 
 ### Accepted
 
