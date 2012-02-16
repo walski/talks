@@ -13,14 +13,14 @@ The introduction of a PUBSUB infrastructure for the first time gives us the powe
 I am Thorben, former founder of “kopfmaschine”, a German Rails shop located in Bremen and now working to make the cloud a better place for developers at Engine Yard in San Francisco. I am living and breathing Ruby since my days at University where I graduated with my thesis on how to scale large Rails applications.
 
 ### Pending
-
-* [Mountain West Ruby 2012](http://mtnwestrubyconf.org/)
+* [Madison Ruby 2012](http://madisonruby.org/)
 * [OSCON 2012](http://www.oscon.com/oscon2012)
 * [RubyConf India 2012](http://rubyconfindia.org/2012/)
 * [Nordic Ruby 2012](http://nordicruby.org/)
+* [Aloha Ruby 2012](http://aloharubyconf.com/)
 
 ### Accepted
 
 ### Not accepted
-* [Madison Ruby 2012](http://madisonruby.org/)
 * [Ruby on Ales 2012](http://ruby.onales.com/)
+* [Mountain West Ruby 2012](http://mtnwestrubyconf.org/)
