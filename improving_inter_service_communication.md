@@ -20,8 +20,8 @@ I am Thorben, former founder of “kopfmaschine”, a German Rails shop located 
 * [Scotish Ruby Conference 2012](http://cfp.scottishrubyconference.com/)
 
 ### Accepted
+* [RubyConf India 2012](http://rubyconfindia.org/2012/)
 
 ### Not accepted
 * [Ruby on Ales 2012](http://ruby.onales.com/)
 * [Mountain West Ruby 2012](http://mtnwestrubyconf.org/)
-* [RubyConf India 2012](http://rubyconfindia.org/2012/)
