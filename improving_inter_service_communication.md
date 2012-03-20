@@ -15,7 +15,6 @@ I am Thorben, former founder of “kopfmaschine”, a German Rails shop located 
 ### Pending
 * [Madison Ruby 2012](http://madisonruby.org/)
 * [OSCON 2012](http://www.oscon.com/oscon2012)
-* [Nordic Ruby 2012](http://nordicruby.org/)
 * [Aloha Ruby 2012](http://aloharubyconf.com/)
 * [Scotish Ruby Conference 2012](http://cfp.scottishrubyconference.com/)
 
@@ -25,3 +24,4 @@ I am Thorben, former founder of “kopfmaschine”, a German Rails shop located 
 ### Not accepted
 * [Ruby on Ales 2012](http://ruby.onales.com/)
 * [Mountain West Ruby 2012](http://mtnwestrubyconf.org/)
+* [Nordic Ruby 2012](http://nordicruby.org/)
