@@ -20,6 +20,7 @@ I am Thorben, former founder of “kopfmaschine”, a German Rails shop located 
 * [OSCON 2012](http://www.oscon.com/oscon2012)
 * [Aloha Ruby 2012](http://aloharubyconf.com/)
 * [Scotish Ruby Conference 2012](http://cfp.scottishrubyconference.com/)
+* [RULU 2012](https://rulu.eu)
 
 ### Accepted
 * [RubyConf India 2012](http://rubyconfindia.org/2012/)
