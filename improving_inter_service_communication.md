@@ -17,11 +17,11 @@ I am Thorben, former founder of “kopfmaschine”, a German Rails shop located 
 
 ### Pending
 * [Aloha Ruby 2012](http://aloharubyconf.com/)
-* [RULU 2012](https://rulu.eu)
 
 ### Accepted
 * [RubyConf India 2012](http://rubyconfindia.org/2012/)
 * [Red Dot Ruby 20212](http://reddotrubyconf.com/)
+* [RULU 2012](https://rulu.eu)
 
 ### Not accepted
 * [Ruby on Ales 2012](http://ruby.onales.com/)
