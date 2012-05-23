@@ -17,7 +17,7 @@ In this talk I will give you a quick tour through existing load testing approach
 
 * use scientific methods of Artifical Intelligence to create realistic load scenarios
 * build a distributed infrastructure to run your tests in a way normal traffic would hit your system
-* analyze the results and find bottlenecks of your system
+* analyze the results and find bottlenecks in your system
 
 ## Bio
 
@@ -28,4 +28,5 @@ I am Thorben, former founder of “kopfmaschine”, a German Rails shop located 
 The talk can be between 25 and 45 minutes. The talk is suited for any audience with at least intermediate understanding of software engineering processes.
 
 Preferred presentation day: no preference
+
 Presentation language: English
