@@ -9,7 +9,7 @@ Hey Joe, do you think we should make our app faster?
 No Bill, I think it's fine as it is, people can wait a little it's not a big deal.
 ```
 
-Everyone who had that conversation just last week with his co-workers can leave the room. For the rest of you I'm going to present some interesting ways to turn the tedious and mostly boring work of load testing into quite some fun and in the end get better results from it. Let's go!
+Everyone who has had that conversation with their co-workers can leave the room. For the rest of you, I'm going to present some interesting ways to turn the tedious and boring work of load testing into something a lot more fun and with much better results in the end. Let's go!
 
 ## Details
 
