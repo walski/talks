@@ -2,7 +2,11 @@
 
 ## Abstract
 
-Imagine this: "Hey Joe, do you think we should make our app faster? No Bill, I think it's fine as it is, people can wait a little it's not a big deal." Everyone who had that conversation just last week with his co-workers can leave the room. For the rest of you I'm going to present some interesting details on how you turn the tedious and mostly boring work of load testing into quite some fun. And in the end: Get better results out of it.
+Imagine this:
+
+```Hey Joe, do you think we should make our app faster? No Bill, I think it's fine as it is, people can wait a little it's not a big deal.```
+
+Everyone who had that conversation just last week with his co-workers can leave the room. For the rest of you I'm going to present some interesting details on how you turn the tedious and mostly boring work of load testing into quite some fun. And in the end: Get better results out of it.
 
 Let's go!
 
