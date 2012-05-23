@@ -13,7 +13,7 @@ Everyone who has had that conversation with their co-workers can leave the room.
 
 ## Details
 
-In this talk I will give you a quick tour through existing load testing approaches and solutions before I will give you some food for though on how to:
+In this talk I will give you a quick tour through existing load testing approaches and then give you some food for though on how to:
 
 * use scientific methods of Artifical Intelligence to create realistic load scenarios
 * build a distributed infrastructure to run your tests in a way normal traffic would hit your system
@@ -21,7 +21,7 @@ In this talk I will give you a quick tour through existing load testing approach
 
 ## Bio
 
-I am Thorben, former founder of “kopfmaschine”, a German Rails shop located in Bremen and now working to make the cloud a better place for developers at Engine Yard in San Francisco. I am living and breathing Ruby since my days at University where I graduated with my thesis on how to scale large Rails applications which is the scientific foundation of this talk.
+I am Thorben, former founder of “kopfmaschine”, a German Rails shop located in Bremen and now working at Engine Yard in San Francisco to make the cloud a better place for developers. I am living and breathing Ruby since my days at University where I graduated with my thesis on how to scale large Rails applications which is the scientific foundation of this talk.
 
 ## Meta
 
