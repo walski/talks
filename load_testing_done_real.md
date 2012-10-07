@@ -1,5 +1,14 @@
 # Load testing done real
 
+## Abstract (new)
+
+Despite being a key performance indicator for web projects, load testing is not a very well established technique within the JS community. In this talk I will give you a quick tour through existing load testing approaches and show you how to turn existing traffic patterns into arbitrary load to measure your website performance under predicted future load. After this we will even dig deeper and find out how to:
+
+- use scientific methods of Artifical Intelligence to create a lot more realistic load scenarios
+- build a distributed infrastructure to run your tests in a way normal traffic would hit your system
+- analyze the results and find bottlenecks in your system
+
+
 ## Abstract
 
 Imagine this:
