@@ -15,7 +15,7 @@ It's not Rails, but so close - periscope depth!
 
 ## Details
 
-The talk aims at beginners and those who do Rails for a living. Those keen to go down the rabbit whole and see what drives Rails and what Ruby has to offer beyond the walled garden Rails can become. It's an adventure, it's fast paced and purely example driven. My goal is to get you excited to play around and deploy at least 10 apps over the next week.
+The talk aims at intermediate developers who do Rails for a living. Those keen to go down the rabbit whole and see what drives Rails and what Ruby has to offer beyond the walled garden Rails can become. It's an adventure, it's fast paced and purely example driven. My goal is to get you excited to play around and deploy at least 10 apps over the next week.
 
 ## Behind the digital curtain
 
